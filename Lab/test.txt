@@ -1,1 +1,5 @@
-
+https://numpy.org/doc/stable/reference/routines.math.html
+https://hackr.io/blog/python-projects
+https://www.dataquest.io/blog/python-projects-for-beginners/
+https://www.freecodecamp.org/news/python-projects-for-beginners/
+https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/
